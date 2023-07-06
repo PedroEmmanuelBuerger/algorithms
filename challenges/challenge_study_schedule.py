@@ -7,7 +7,3 @@ def study_schedule(permanence_period, target_time):
     except (IndexError, TypeError):
         return None
     return dictPeriods
-
-
-permanent_period = [(2, 2), (1, 2), (2, 3), (1, 5), (4, 5), (4, 5)]
-print(study_schedule(permanent_period[0], None))
