@@ -15,6 +15,3 @@ def order_alphabet_string(string):
         if letter in string:
             ordered_string += letter * string.count(letter)
     return ordered_string
-
-
-print(is_anagram("", ""))
