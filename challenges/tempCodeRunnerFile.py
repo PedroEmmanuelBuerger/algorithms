@@ -1,2 +1,0 @@
-
-permanent_period = [
