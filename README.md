@@ -1,42 +1,37 @@
+# Algorithms
 
-## algorithms
+Algorithms is a project developed as part of the "Trybe" course to simulate simple functions using Python and some of its libraries.
 
-algorithms é um projeto desenvolvido como parte do curso "Trybe" feito para simular funções simples utlizando python e algumas de suas bibliotecas.
+## Features
 
+The project includes the following features:
 
-## Funcionalidades
-O projeto possui as seguintes funcionalidades:
+- **Check if a word is an anagram**.
+- **Find a duplicate value within a list**.
+- **Check if a word is a palindrome**.
+- **Encrypt messages**.
 
-verificar se uma palavra é um anagrama.
+## Technologies Used
 
-achar um valor duplicado dentro de uma lista.
+The project was developed using the following technologies:
 
-verificar se uma palavra é um palindromo
+- **OOP (Object-Oriented Programming)**
+- **Python**
+- **PIB**
+- **Pytest**
 
-encripitar mensagens.
+## Installation
 
-## Tecnologias Utilizadas
-O projeto foi desenvolvido utilizando as seguintes tecnologias:
+To install and run the project locally, follow the steps below:
 
-- POO
-- Python
-- PIB
-- Pytest
+1. Clone the repository to your local machine: `git@github.com:PedroEmmanuelBuerger/project-algorithms.git`.
+2. Ensure you have the PIB library for Python installed, then run the command: `pip install`.
+3. To run the tests, execute: `python3 run tests`.
 
-## Instalação
-Para instalar e executar o projeto localmente, siga os passos abaixo:
+## Key Learnings
 
-Clone o repositório para sua máquina local.
-git@github.com:PedroEmmanuelBuerger/project-algorithms.git
+The main learning was how to identify the complexity of a code, such as how much memory it uses and how long it takes to execute. It was also possible to learn various ways to handle code in different situations to reduce its complexity, working with lists in both recursive and iterative formats, all in Python. Additionally, it was great for becoming familiar with the language and its libraries, like pytest.
 
-Tenha a biblioteca Pib do python em sua maquina e rode o comando:
-pip install
+## Conclusion
 
-para rodar os testes execute: python3 run tests
-
-## Principais Aprendizados
-Principal aprendizado foi saber indentificar a complexidade de um código, como por exemplo o tanto que ele armazena em memória, o tanto de tempo que demora a ser executado e afins. Foi possivel tambem aprender diversos modos para lidar com código em diferentes situações para diminuir a complexidade do codigo, trabalhando com listas em formato recursivo e iterativo, tudo isso na linguagem python.
-Tabem foi bom para conhecer a inguagem e suas bibliotecas, como o pytest.
-
-## Conclusão
-A aplicação foi um excelente ponto de partida para a aplicação de ciencia da computação, e tambem foi ótimo para aperfeiçoar minhas habilidades com a linguagem python, utilizando suas ferramentas e diversas bibliotecas.
+The application was an excellent starting point for applying computer science concepts and also a great way to refine my skills with the Python language, using its tools and various libraries.
